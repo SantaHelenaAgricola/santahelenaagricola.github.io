@@ -215,9 +215,7 @@ em { font-style: italic; }
 .person a:hover { color: var(--clay); border-color: var(--clay); }
 .address { font-style: normal; margin-top: var(--s-6); padding-top: var(--s-4); border-top: 2px solid var(--forest); }
 .address h3 { font-size: 1.55rem; margin-bottom: var(--s-2); }
-.address p { line-height: 1.6; margin-bottom: var(--s-3); }
-.address .link-arrow { color: var(--clay); border-color: var(--line); }
-.address .link-arrow:hover { color: var(--forest); border-color: var(--forest); }
+.address p { line-height: 1.6; }
 
 /* Footer */
 .site-footer { background: var(--forest); color: #b9c9b0; padding-block: var(--s-5); font-size: .9rem; }
