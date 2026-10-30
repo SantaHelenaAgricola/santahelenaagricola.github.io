@@ -169,7 +169,7 @@ Os 5 primeiros commits do repositório, anteriores a esta convenção, estão em
 
 ## Pendências e pontos de atenção
 
-- [ ] **Legendas das fotos.** As legendas foram ligadas às fotos pela ordem interna da animação Flash. A primeira, "Café e Seringueira", pode estar trocada com "Manejo de plantas daninhas", porque a foto que mostra café entre as seringueiras ficou sob "Manejo…". Confirmar com a empresa.
+- [x] **Legendas das fotos.** As legendas foram ligadas às fotos pela ordem interna da animação Flash. As fotos de "Café e Seringueira" e "Manejo de plantas daninhas" estavam trocadas; corrigido.
 - [ ] **Qualidade das fotos.** São de 350×223 px. Pedir os originais à empresa.
 - [ ] **Contatos.** Foram copiados do site antigo. Confirmar com a empresa se continuam atuais, inclusive os domínios de e-mail de cada pessoa.
 - [ ] **Imagens de pessoas.** Algumas fotos mostram pessoas. Confirmar com a empresa a autorização para manter as imagens publicadas.
